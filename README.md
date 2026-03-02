@@ -1,5 +1,10 @@
 ﻿# EV Wireless Charging Platform
 
+<img width="300" height="260" alt="image" src="https://github.com/user-attachments/assets/ad04128c-f23c-420d-82ea-64bb2cb06cc8" />
+<img width="300" height="260" alt="image" src="https://github.com/user-attachments/assets/bff8342a-64a8-4578-b123-b1be6f4dfffc" />
+<img width="480" height="260" alt="image" src="https://github.com/user-attachments/assets/46b7581c-7e9d-4b93-8358-20ee4098c561" />
+
+
 FastAPI 기반 백엔드, 두 개의 Vite/React 프런트엔드(user/admin), 카메라 캡처 워커, 아두이노 펌웨어로 구성된 무선 충전 데모 시스템입니다. 번호판 인식(GPT 또는 외부 HTTP 서비스), 예약/취소, 실시간 대시보드, 배터리 모니터링(Firebase RTDB)까지 한 번에 확인할 수 있습니다.
 
 ## 저장소 구성
